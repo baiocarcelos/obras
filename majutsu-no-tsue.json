@@ -1,0 +1,30 @@
+{
+  "title": "Majutsu no Tsue",
+  "description": "teste",
+  "artist": "teste",
+  "author": "teste",
+  "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi5kSQB6XIjG0LdswchJQpyZslNx3NTu-yOg&s",
+  "chapters": {
+    "1": {
+      "title": "Naquele Instante, de Repente...",
+      "volume": "",
+      "last_updated": "1777412474",
+      "groups": {
+        "Eleven": [
+          "https://cdn.imgchest.com/files/589cef97813c.jpg",
+          "https://cdn.imgchest.com/files/1e0c939062f4.jpg",
+          "https://cdn.imgchest.com/files/42c411842a48.jpg",
+          "https://cdn.imgchest.com/files/88918acc0eb2.jpg",
+          "https://cdn.imgchest.com/files/c9fa8f948bc6.jpg",
+          "https://cdn.imgchest.com/files/5cdd331dbc6c.jpg",
+          "https://cdn.imgchest.com/files/20259039433f.jpg",
+          "https://cdn.imgchest.com/files/0d759d9be1a8.jpg",
+          "https://cdn.imgchest.com/files/b796863324ee.jpg",
+          "https://cdn.imgchest.com/files/0761d74158f6.jpg",
+          "https://cdn.imgchest.com/files/521384fa4981.jpg",
+          "https://cdn.imgchest.com/files/67f4ae55c64a.jpg"
+        ]
+      }
+    }
+  }
+}
